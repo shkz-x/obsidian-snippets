@@ -1,0 +1,7 @@
+/* Permite alinear imagenes con 'left', 'center' o 'right'*/
+
+img[alt*="center"] {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
