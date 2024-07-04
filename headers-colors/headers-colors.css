@@ -1,0 +1,24 @@
+/* Header 1 - White */
+.markdown-preview-view h1 {
+    color: white;
+}
+
+/* Header 2 - Yellow */
+.markdown-preview-view h2 {
+    color: yellow;
+}
+
+/* Header 3 - Skyblue */
+.markdown-preview-view h3 {
+    color: skyblue;
+}
+
+/* Header 4 - Red */
+.markdown-preview-view h4 {
+    color: red;
+}
+
+/* Header 5 - Violet */
+.markdown-preview-view h5 {
+    color: violet;
+}
