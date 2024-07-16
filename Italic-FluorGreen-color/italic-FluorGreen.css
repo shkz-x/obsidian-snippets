@@ -1,0 +1,18 @@
+/* Color del texto en cursiva a verde flúor, ideal con background negro */
+
+.markdown-preview-view em {
+  color: #39ff14 !important;
+}
+
+.markdown-preview-view i {
+  color: #39ff14 !important;
+}
+
+/* Y esto es para el modo de edición */
+.cm-em {
+  color: #39ff14 !important;
+}
+
+.cm-em.cm-strong {
+  color: #39ff14 !important;
+}
